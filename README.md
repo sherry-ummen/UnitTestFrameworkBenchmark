@@ -3,7 +3,7 @@ Analyzing performance of various unit test framework
 
 Results:
 
-Visual Studio Unit test framework:
+**Visual Studio Unit test framework:**
 
 ========== Discover test finished: 2000 found (0:00:00.8087906) ==========
 
@@ -12,7 +12,7 @@ Visual Studio Unit test framework:
 ========== Run test finished: 2000 run (0:00:02.8345637) ==========
 
 
-NUnit:
+**NUnit:**
 
 ========== Discover test finished: 2000 found (0:00:01.0557401) ==========
 
@@ -30,7 +30,7 @@ NUnit Adapter 3.0.9.0 executing tests is finished
 
 
 
-xUnit:
+**xUnit:**
 
 ========== Discover test finished: 2000 found (0:00:07.2889078) ==========
 
